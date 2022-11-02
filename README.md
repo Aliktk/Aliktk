@@ -1,11 +1,11 @@
 ### Hi there, I'm Ali Nawaz! 👋
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&show_icons=true&locale=en" /> </p>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&&show_icons=true&theme=radical" /> </p>
 
 
 
 
-<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&show_icons=true&locale=en&layout=compact" alt="Aliktk" /></p>
+<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&&show_icons=true&theme=radical" alt="Aliktk" /></p>
   
   
   
@@ -13,6 +13,7 @@
 - Gmail: <a href = "#">nawazktk99@gmail.com</a>
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Ali-Nawaz-14">Ali Nawaz</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/ali-nawaz-khattak//">Ali Nawaz</a>  
+- Google Scholer: <a href = "https://scholar.google.com.pk/citations?user=oFzPPSMAAAAJ&hl=en">Ali Nawaz</a>  
 </p>
 
 ## :computer: Tools and Technologies 
@@ -66,7 +67,8 @@
 
 
 ### Recently I'm coding in...
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30) 
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true&theme=radical)
+
 
 <p align="center">
   Visitor count<br>

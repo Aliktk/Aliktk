@@ -1,13 +1,29 @@
-### Hi there, I'm Ali Nawaz! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliktk&label=Profile%20views&color=0e75b6&style=flat" alt="aliktk" /> </p>
+<h1 >Hi 👋, I'm Ali Nawaz</h1>
+<h3>A passionate Artificial Intelligence developer from Pakistan</h3></br>
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&&show_icons=true&theme=radical" /> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliktk" alt="aliktk" /></a> </p> -->
 
+- 🔭 I’m currently working on <b>Medical Image Analyses, Chest-Xray disease localization, Breast Cancer Detection, Object Segmentation, Data Mining, Scrapping</b> .
 
+- 🌱 I’m currently learning **Django, AWS, Docker**
 
+- 👯 I’m looking to collaborate on **Disease Localization Chest X-ray, Segmentation, Classification, or any ML research.**
+
+- 💬 Ask me about **Artificial Intelligence, Machine Leanring, Deep Learning**
+
+- 📫 How to reach me **nawazktk99@gmail.com**
+
+- ⚡ Fun fact **I think I am hard worker :)**
+<p align="left"> <a href="https://twitter.com/engr_ali_nawaz" target="blank"><img src="https://img.shields.io/twitter/follow/engr_ali_nawaz?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
 
 <p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&&show_icons=true&theme=radical" alt="Aliktk" /></p>
- </br>  
+ </br>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&&show_icons=true&theme=radical" /> </p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&show_icons=true&theme=radical" alt="aliktk" /></p>
 <div>
+
   <h3>☕ Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <a href="https://www.python.org/" target="_blank">
@@ -39,7 +55,7 @@
 
 
 ### Recently I'm coding in...
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true&theme=radical)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true)
 
   <p align="center" >Thanks for stopping by 😁</><br/>
 </p>

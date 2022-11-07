@@ -1,6 +1,26 @@
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/> -->
+ 
+<!-- [![coffee][coffee-shield]][coffee-url]
+[![javascript][javascript-shield]][javascript-url] 
+[![linux][linux-shield]][linux-url]
+[![java][java-shield]][java-url]
+[![html][html-shield]][html-url]
+[![raspberry-pi][raspberry-shield]][raspberry-url]
+[![visual-studio][vs-shield]][vs-url]
+[![flutter][flutter-shield]][flutter-url]  
+[![c][c-shield]][c-url]
+[![python][python-shield]][python-url]
+[![windows][windows-shield]][windows-url]
+[![go][go-shield]][go-url]
+[![android][android-shield]][android-url] 
+[![latex][latex-shield]][latex-url]
+[![c#][c#-shield]][c#-url]
+[![markdown][md-shield]][md-url]
+[![bash][bash-shield]][bash-url]
+[![unity][unity-shield]][unity-url] -->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliktk&label=Profile%20views&color=0e75b6&style=flat" alt="aliktk" /> </p>
 <h1 >Hi 👋, I'm Ali Nawaz</h1>
 <h3>A passionate Artificial Intelligence developer from Pakistan</h3>
@@ -24,6 +44,7 @@
 - 📫 How to reach me **nawazktk99@gmail.com**
 
 - ⚡ Fun fact **I think I am hard worker :)**
+<h2>Send text to my social platform for developing web projects.</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinawazktk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alinawazktk/)
@@ -38,6 +59,7 @@
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&show_icons=true&theme=radical" alt="aliktk" /></p>
 <div>
+<a href="https://github.com/aliktk"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
 
   <h3>☕ Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -72,7 +94,28 @@
 ### Recently I'm coding in...
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true)
 
-  <p align="center" >Thanks for stopping by 😁</><br/>
+
+<!-- <details>
+  <summary><b>📊 My Programming Stats</b></summary>
+<!--   <!--START_SECTION:waka-->
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2039%20mins-blue) -->
+
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue) -->
+<!-- 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
+🌆 Daytime    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.19% 
+🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
+🌙 Night      310 commits    ████████░░░░░░░░░░░░░░░░░   33.55%
+
+```
+
+
+ Last Updated on 05/02/2022 08:37:50 UTC -->
+<!--END_SECTION:waka--> -->
+<p align="center" >Thanks for stopping by 😁</><br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 

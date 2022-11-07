@@ -1,6 +1,15 @@
+<!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+ <br/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliktk&label=Profile%20views&color=0e75b6&style=flat" alt="aliktk" /> </p>
 <h1 >Hi 👋, I'm Ali Nawaz</h1>
-<h3>A passionate Artificial Intelligence developer from Pakistan</h3></br>
+<h3>A passionate Artificial Intelligence developer from Pakistan</h3>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Artificial-Intelligence-Engineer-Roadmap-AI)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliktk" alt="aliktk" /></a> </p> -->
 
@@ -15,6 +24,12 @@
 - 📫 How to reach me **nawazktk99@gmail.com**
 
 - ⚡ Fun fact **I think I am hard worker :)**
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinawazktk/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alinawazktk/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engr_ali_nawaz/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
+
 <p align="left"> <a href="https://twitter.com/engr_ali_nawaz" target="blank"><img src="https://img.shields.io/twitter/follow/engr_ali_nawaz?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
 
 <p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&&show_icons=true&theme=radical" alt="Aliktk" /></p>

@@ -44,7 +44,7 @@
 - 📫 How to reach me **nawazktk99@gmail.com**
 
 - ⚡ Fun fact **I think I am hard worker :)**
-<h2>Send text to my social platform for developing web projects.</h2>
+<h2>Send text to my Social Platform for developing AI-Based Projects.</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinawazktk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engr_ali_nawaz/)

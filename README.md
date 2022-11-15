@@ -21,9 +21,19 @@
 [![bash][bash-shield]][bash-url]
 [![unity][unity-shield]][unity-url] -->
 
+
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ali+Nawaz!;&center=true&size=30">
+  </a></h1><!-- <h1 >Hi 👋, I'm Ali Nawaz</h1> -->
+<p align="left">
+  <h3>Hi, I'm Ali Nawaz, A passionate Artificial Intelligence developer/Coder,  Learner 👨‍💻 &  Graphic Designer 🦸‍♂️ from Pakistan.</h3>
+  🎓 Completed my masters degree from <a href="https://web.uettaxila.edu.pk/"><b> UET Taxila.</b></a>
+  <br>
+  🧑‍💼 I’m currently working as Artificial Intelligence Engineer at <a href="https://horizon.com.pk/"><b> Horizon Tech Services</b> </a>
+  <br></p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliktk&label=Profile%20views&color=0e75b6&style=flat" alt="aliktk" /> </p>
-<h1 >Hi 👋, I'm Ali Nawaz</h1>
-<h3>A passionate Artificial Intelligence developer from Pakistan</h3>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Artificial-Intelligence-Engineer-Roadmap-AI)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -32,6 +42,7 @@
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliktk" alt="aliktk" /></a> </p> -->
+<h2 align="left">⚡ Profile Overview ⚡</h2>
 
 - 🔭 I’m currently working on <b>Medical Image Analyses, Chest-Xray disease localization, Breast Cancer Detection, Object Segmentation, Data Mining, Scrapping</b> .
 
@@ -44,7 +55,8 @@
 - 📫 How to reach me **nawazktk99@gmail.com**
 
 - ⚡ Fun fact **I think I am hard worker :)**
-<h2>Send text to my Social Platform for developing AI-Based Projects.</h2>
+
+<h2>⚡ Send 💬 text to my Social Platform for developing AI-Based Projects⚡</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinawazktk/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engr_ali_nawaz/)
@@ -52,17 +64,17 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
 
 <p align="left"> <a href="https://twitter.com/engr_ali_nawaz" target="blank"><img src="https://img.shields.io/twitter/follow/engr_ali_nawaz?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
-
+<h2 align="left">⚡ Stats ⚡</h2>
 <p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&&show_icons=true&theme=radical" alt="Aliktk" /></p>
  </br>
 <p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&&show_icons=true&theme=radical" /> </p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&show_icons=true&theme=radical" alt="aliktk" /></p>
 <div>
-<a href="https://github.com/aliktk"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-
-  <h3>☕ Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+<h2 align="left">⚡ Contribution ⚡</h2>
+<a href="https://github.com/aliktk"><img alt="Snake animation" src="https://github.com/Aliktk/Aliktk/blob/main/github-user-contribution.svg"/></a>
 </div>
+<h2>☕ Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <a href="https://www.python.org/" target="_blank">
   <p align="left">
 <a href="https://linkedin.com/in/ali-nawaz-khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nawaz-khattak" height="30" width="40" /></a>
@@ -86,12 +98,13 @@
 <a href="https://auth.geeksforgeeks.org/user/nawazktk99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nawazktk99" height="30" width="40" /></a>
   </p>
  </br>
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">🔥 Languages-Frameworks-Tools 🔥</h2>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
 
-### Recently I'm coding in...
+<h2 align="left">👨‍📊 Recently I'm coding in...</h2>
+
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true)
 
 
@@ -114,12 +127,15 @@
 
 
  Last Updated on 05/02/2022 08:37:50 UTC -->
-<!--END_SECTION:waka--> -->
-<p align="center" >Thanks for stopping by 😁</><br/>
+<!--END_SECTION:waka-->
+<h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
+<!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
+<h3 align="left">⚡ You can Support on:</h3>
+<p><a href="https://www.buymeacoffee.com/alinawazktk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alinawazktk" /></a><a href="https://ko-fi.com/alinawaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alinawaz" /></a></p><br><br>
 </p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
 
-<p align="center">
+<p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Aliktk/count.svg" />
 </p>
+<p align="left"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>

@@ -1,26 +1,6 @@
 <!-- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/> -->
- 
-<!-- [![coffee][coffee-shield]][coffee-url]
-[![javascript][javascript-shield]][javascript-url] 
-[![linux][linux-shield]][linux-url]
-[![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![raspberry-pi][raspberry-shield]][raspberry-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]  
-[![c][c-shield]][c-url]
-[![python][python-shield]][python-url]
-[![windows][windows-shield]][windows-url]
-[![go][go-shield]][go-url]
-[![android][android-shield]][android-url] 
-[![latex][latex-shield]][latex-url]
-[![c#][c#-shield]][c#-url]
-[![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
-[![unity][unity-shield]][unity-url] -->
-
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
@@ -107,27 +87,21 @@
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true)
 
+<h2 align="left">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KushalTanna24/Chat-Fresh" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Chat-Fresh&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
-<!-- <details>
-  <summary><b>📊 My Programming Stats</b></summary>
-<!--   <!--START_SECTION:waka-->
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2039%20mins-blue) -->
-
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue) -->
-<!-- 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.23% 
-🌆 Daytime    279 commits    ███████░░░░░░░░░░░░░░░░░░   30.19% 
-🌃 Evening    259 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
-🌙 Night      310 commits    ████████░░░░░░░░░░░░░░░░░   33.55%
-
-```
-
-
- Last Updated on 05/02/2022 08:37:50 UTC -->
-<!--END_SECTION:waka-->
+<br><br><br><br><br><br><br><br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Aliktk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<br><br>
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
 <h3 align="left">⚡ You can Support on:</h3>

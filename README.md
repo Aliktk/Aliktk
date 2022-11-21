@@ -85,7 +85,7 @@
 
 <h2 align="left">👨‍📊 Recently I'm coding in...</h2>
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&&show_icons=true)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30) 
 
 <h2 align="left">👨‍💻 Repositories 👨‍💻</h2>
 <br>

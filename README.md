@@ -45,9 +45,9 @@
 
 <p align="left"> <a href="https://twitter.com/engr_ali_nawaz" target="blank"><img src="https://img.shields.io/twitter/follow/engr_ali_nawaz?logo=twitter&style=for-the-badge" alt="engr_ali_nawaz" /></a> </p>
 <h2 align="left">⚡ Stats ⚡</h2>
-<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aliktk&&show_icons=true&theme=radical" alt="Aliktk" /></p>
+<p align = "right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliktk&&show_icons=true&theme=radical" alt="aliktk" /></p>
  </br>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Aliktk&&show_icons=true&theme=radical" /> </p>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=aliktk&&show_icons=true&theme=radical" /> </p>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&show_icons=true&theme=radical" alt="aliktk" /></p>
 <div>
@@ -87,7 +87,7 @@
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30) 
 
-<h2 align="left">👨‍💻 Repositories 👨‍💻</h2>
+<!-- <h2 align="left">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/KushalTanna24/Food-App" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Food-App&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -98,8 +98,8 @@
   <a align="left" href="https://github.com/KushalTanna24/Expense-Tracker" title="Expense Tracker"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=Expense-Tracker&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/KushalTanna24/ToDoApp" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalTanna24&repo=ToDoApp&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-
-<br><br><br><br><br><br><br><br>
+ -->
+<br><br><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Aliktk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br><br>
 <h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>

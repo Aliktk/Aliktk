@@ -102,7 +102,7 @@
 <br><br><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Aliktk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <br><br>
-<h2 align="left">⚡Thanks for stopping by 😁:) ⚡</h2>
+<h2 align="left">⚡Thanks for stopping by 😁 :)⚡</h2>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
 <h3 align="left">⚡ You can Support on:</h3>
 <p><a href="https://www.buymeacoffee.com/alinawazktk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alinawazktk" /></a><a href="https://ko-fi.com/alinawaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alinawaz" /></a></p><br><br>

@@ -4,7 +4,7 @@
 
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ali+Nawaz!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ali+Nawaz!;+A+Passionate+AI+Engineer+;&center=true&size=30">
   </a></h1><!-- <h1 >Hi 👋, I'm Ali Nawaz</h1> -->
 <p align="left">
   <h3>Hi, I'm Ali Nawaz, A passionate Artificial Intelligence developer/Coder,  Learner 👨‍💻 &  Graphic Designer 🦸‍♂️ from Pakistan.</h3>
@@ -19,16 +19,19 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+ <a href="mailto: nawazktk99@foxmail.com">
+        <img alt="emal" src="https://img.shields.io/badge/contact_me-email-yellow">
+    </a>
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliktk" alt="aliktk" /></a> </p> -->
 <h2 align="left">⚡ Profile Overview ⚡</h2>
 
-- 🔭 I’m currently working on <b>Medical Image Analyses, Chest-Xray disease localization, Breast Cancer Detection, Object Segmentation, Data Mining, Scrapping</b> .
+- 🔭 I’m currently working on <b>Automatic Speech Recognition, Text Processing, LLM, Scrapping, Language Translation, Abstractive Summarization, Medical Image Analyses, Chest-Xray disease localization, Breast Cancer Detection, Object Segmentation, Data Mining, Scrapping</b> .
 
-- 🌱 I’m currently learning **Django, AWS, Docker**
+- 🌱 I’m currently learning **Django, AWS, Docker, LLM**
 
-- 👯 I’m looking to collaborate on **Disease Localization Chest X-ray, Segmentation, Classification, or any ML research.**
+- 👯 I’m looking to collaborate on **ASR, NLP Domian Project, Disease Localization Chest X-ray, Segmentation, Classification, or any ML research.**
 
 - 💬 Ask me about **Artificial Intelligence, Machine Leanring, Deep Learning**
 
@@ -54,7 +57,7 @@
 <h2 align="left">⚡ Contribution ⚡</h2>
 <a href="https://github.com/aliktk"><img alt="Snake animation" src="https://github.com/Aliktk/Aliktk/blob/main/github-user-contribution.svg"/></a>
 </div>
-<h2>☕ Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
+<h2>☕ Connect with Me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 <a href="https://www.python.org/" target="_blank">
   <p align="left">
 <a href="https://linkedin.com/in/ali-nawaz-khattak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nawaz-khattak" height="30" width="40" /></a>
@@ -110,14 +113,14 @@
   
   ### 🔎 Areas of Interest
   - 👾 Continual learning and professional development
-  - 🧑‍💼  Adaptability and flexibility in a fast-paced work environment
+  - 🧑‍💼 Adaptability and flexibility in a fast-paced work environment
   - ❓ Strong problem-solving skills and attention to detail.
   - 🕹️ Team collaboration and project management
   - 🌱 Nature, Hicking, Adventurer.
 
 </details>
 
-<h3 align="left">⚡Thanks for stopping by 😁 :)⚡</h3>
+<h3 align="left">⚡Thanks for stopping by 😊 :)⚡</h3>
 <!-- <p align="center" >Thanks for stopping by 😁</><br/> -->
 <h3 align="left">⚡ You can Support on:</h3>
 <p><a href="https://www.buymeacoffee.com/alinawazktk"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alinawazktk" /></a><a href="https://ko-fi.com/alinawaz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alinawaz" /></a></p><br><br>

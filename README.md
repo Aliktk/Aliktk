@@ -55,7 +55,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 👨‍💻 Quick Intro
 
@@ -156,11 +156,15 @@ class AliNawaz:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 <br>
 
@@ -168,7 +172,12 @@ class AliNawaz:
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-9333EA?style=for-the-badge&logo=llama&logoColor=white)
 
 <br>
 
@@ -178,16 +187,28 @@ class AliNawaz:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
 ### ☁️ Cloud & Databases
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
 
@@ -197,6 +218,33 @@ class AliNawaz:
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![CorelDraw](https://img.shields.io/badge/CorelDraw-00843D?style=for-the-badge&logo=coreldraw&logoColor=white)
+
+<br>
+
+### 🔧 Web Scraping & Automation
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
+
+<br>
+
+### 📹 Video & Streaming
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<br>
+
+### 📊 Data Science & Visualization
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -345,89 +393,6 @@ class AliNawaz:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-  AI/ML Expertise Level
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-**Computer Vision** 
-
-<img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=400&color=00d9ff&suffix=%20" />
-
-**Natural Language Processing (NLP)** 
-
-<img src="https://progress-bar.dev/90/?scale=100&title=Expert&width=400&color=00d9ff&suffix=%20" />
-
-**Deep Learning (PyTorch/TensorFlow)** 
-
-<img src="https://progress-bar.dev/95/?scale=100&title=Expert&width=400&color=00d9ff&suffix=%20" />
-
-</td>
-<td width="50%">
-
-**Large Language Models (LLMs)** 
-
-<img src="https://progress-bar.dev/88/?scale=100&title=Advanced&width=400&color=00d9ff&suffix=%20" />
-
-**Python Development** 
-
-<img src="https://progress-bar.dev/98/?scale=100&title=Expert&width=400&color=00d9ff&suffix=%20" />
-
-**Cloud & DevOps (AWS/Docker)** 
-
-<img src="https://progress-bar.dev/85/?scale=100&title=Advanced&width=400&color=00d9ff&suffix=%20" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/kdQuQ2jGIdCE8oPdPK/giphy.gif" width="40">
-  Coding Activity
-  <img src="https://media.giphy.com/media/kdQuQ2jGIdCE8oPdPK/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-
-<a href="https://github.com/aliktk">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliktk&custom_title=Ali's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true" alt="Contribution Graph" width="100%" />
-</a>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  Weekly Coding Stats
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&width=850&height=300)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35">
   Connect With Me
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35">
@@ -551,32 +516,40 @@ class AliNawaz:
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-  <br><br>
-  <b>🤖 Agentic AI</b>
+  <br>
+  <h1>🤖</h1>
+  <br>
+  <b>Agentic AI</b>
   <br>
   <sub>Building autonomous agents</sub>
+  <br><br>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-  <br><br>
-  <b>👁️ Computer Vision</b>
+  <br>
+  <h1>👁️</h1>
+  <br>
+  <b>Computer Vision</b>
   <br>
   <sub>YOLO, SAM2, Detection</sub>
+  <br><br>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-  <br><br>
-  <b>🧠 LLMs & RAG</b>
+  <br>
+  <h1>🧠</h1>
+  <br>
+  <b>LLMs & RAG</b>
   <br>
   <sub>GPT, Langchain, GenAI</sub>
+  <br><br>
 </td>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-  <br><br>
-  <b>🏥 Medical AI</b>
+  <br>
+  <h1>🏥</h1>
+  <br>
+  <b>Medical AI</b>
   <br>
   <sub>Healthcare solutions</sub>
+  <br><br>
 </td>
 </tr>
 </table>
@@ -602,26 +575,6 @@ class AliNawaz:
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  Coding Stats
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C500%20hrs-blue?style=for-the-badge)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10k+-blue?style=for-the-badge)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written-1%20Million%20Lines%20of%20Code-blue?style=for-the-badge)
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 <div align="center">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Fun Fact
@@ -630,43 +583,10 @@ class AliNawaz:
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
-  Skills Showcase
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,aws,azure,docker,kubernetes,git,github,linux,postgres,redis,fastapi&perline=8" />
-</div>
-
 <br>
 
 <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&lineCount=3&line1=python,python,auto;pytorch,pytorch,auto;tensorflow,tensorflow,auto;&line2=react,react,auto;docker,docker,auto;kubernetes,kubernetes,auto;&line3=aws,aws,auto;postgresql,postgresql,auto;git,git,auto;&theme=radical&showBorder=false" alt="My Tech Stack" />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  Quick Stats
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-![Years of Experience](https://img.shields.io/badge/Experience-5+%20Years-00D9FF?style=for-the-badge&labelColor=000000)
-![Projects Completed](https://img.shields.io/badge/Projects-50+-FF6B6B?style=for-the-badge&labelColor=000000)
-![Publications](https://img.shields.io/badge/Publications-4+-4CAF50?style=for-the-badge&labelColor=000000)
-![Happy Clients](https://img.shields.io/badge/Clients-20+-FFA500?style=for-the-badge&labelColor=000000)
-
 </div>
 
 ---

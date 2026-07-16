@@ -236,7 +236,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alinawazktk&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="70%" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=9b0829f4-28ff-4313-8617-fe5f48f996c4&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="70%" alt="WakaTime Stats"/>
 
 </div>
 

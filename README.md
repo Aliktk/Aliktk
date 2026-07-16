@@ -102,21 +102,58 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 <!-- ============================= SELECTED WORK ============================= -->
 ## 🗂️ Selected Work
 
-**🏛️ FIA Smart ACR/PER Management System**
-We replaced a manual, paper based government appraisal process with a secure, auditable digital platform. It automates ACR and PER records, handles review workflows, and generates reporting.
-`FastAPI` · `PostgreSQL` · `Workflow Automation` · `Enterprise ERP`
+<div align="center">
 
-**🤖 Agentic AI & RAG Platform**
-Production RAG pipelines and autonomous agents for document intelligence and enterprise knowledge assistants.
-`LangChain` · `LangGraph` · `OpenAI / Azure OpenAI` · `FastAPI`
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/smart-acr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=smart-acr&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>🏛️ Secure on-prem platform digitizing FIA ACR/PER workflows: role based access, countersigning, reporting, and dossier archiving.</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/pak-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=pak-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>🚀 The PAK-AI web platform: portfolio, case studies, service showcases, and lead capture for the company.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/media-spy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=media-spy&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>📡 Multi-tenant, AI-native media intelligence and OSINT platform across broadcast, social, print, and web.</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/MCQ-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=MCQ-Generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>🧠 LangChain and OpenAI app that generates custom MCQs from PDF or text, with difficulty and subject controls.</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/object_detection_yolov8">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=object_detection_yolov8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>👁️ Full YOLOv8 workflow: training, exporting, optimizing, and deploying models for object detection.</sub></p>
+</td>
+<td width="50%" align="center" valign="top">
+  <a href="https://github.com/aliktk/stt-endpoint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=stt-endpoint&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
+  </a>
+  <p><sub>🎙️ Plug-and-play speech-to-text pipeline: API-first with a local faster-whisper fallback, FastAPI and Streamlit.</sub></p>
+</td>
+</tr>
+</table>
 
-**👁️ Real-Time Computer Vision Suite**
-Detection, tracking, and action recognition for safety, compliance, and industrial monitoring, tuned to run on edge hardware.
-`YOLOv11` · `SAM2` · `ST-GCN` · `PyTorch`
+<sub>🔬 Research work also spans medical imaging: eye disease, myopia progression, and bone scintigraphy classification.</sub>
 
-**🏥 Medical Imaging & Diagnostics AI**
-Computer aided diagnosis pipelines for clinical imaging, covering segmentation, classification, and diagnosis support.
-`TensorFlow` · `PyTorch` · `MONAI`
+[![All repositories](https://img.shields.io/badge/See_all_repositories_→-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliktk?tab=repositories)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

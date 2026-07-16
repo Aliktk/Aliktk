@@ -1,651 +1,106 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B5E20,100:2E7D32&height=200&section=header&text=Ali%20Nawaz&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Founder%20%26%20CEO%20@%20PAK-AI%20%7C%20Senior%20AI/ML%20Engineer%20%7C%206%2B%20Years&descSize=16&descAlignY=52&descAlign=50&animation=twinkling"/>
-</div>
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2000&pause=500&color=F70000&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%94%A5+Passionate+AI+Engineer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;%E2%9A%A1+Transforming+Ideas+into+AI+Solutions;%F0%9F%9A%80+Always+Learning%2C+Always+Building!" alt="Subtitle" />
+<img src="./assets/pak-ai-logo.png" width="320" alt="PAK-AI"/>
 
-</div>
+<h1>Ali Nawaz</h1>
 
-<div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Welcome+to+my+AI+Universe!+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+GenAI+Expert;Building+Intelligent+Systems+with+Python;Agentic+AI+%26+LLM+Specialist;Let's+Create+Something+Amazing!+%F0%9F%92%A1" alt="Typing SVG" /></a>
+**Founder &amp; CEO — PAK-AI** &nbsp;·&nbsp; Senior AI/ML Engineer &nbsp;·&nbsp; 6+ Years
 
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="400"/>
+We design, build, and ship intelligent systems end-to-end — from research to deployment, QA, and long-term support.
 
-</div>
+📍 Islamabad, Pakistan &nbsp;·&nbsp; 🌐 [pak-ai-web.vercel.app](https://pak-ai-web.vercel.app) &nbsp;·&nbsp; ✉️ [nawazktk99@gmail.com](mailto:nawazktk99@gmail.com)
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=aliktk&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/aliktk)
-[![GitHub followers](https://img.shields.io/github/followers/aliktk?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/aliktk?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/engr_ali_nawaz?style=for-the-badge&logo=twitter&color=1DA1F2)](https://twitter.com/engr_ali_nawaz)
-[![GitHub Stars](https://img.shields.io/github/stars/aliktk?style=for-the-badge&logo=github&color=yellow)](https://github.com/aliktk?tab=repositories)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/Aliktk)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](http://perso.crans.org/besson/LICENSE.html)
-
-<br>
-
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://github.com/Aliktk/graphs/commit-activity)
-[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](mailto:nawazktk99@gmail.com)
-[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg?style=for-the-badge)](https://github.com/Aliktk)
-[![GitHub commits](https://img.shields.io/badge/Last%20Commit-Recently-yellow?style=for-the-badge)](https://github.com/aliktk)
-
-<br>
-
-[![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=ai)](https://github.com/Aliktk)
-[![Contact](https://img.shields.io/badge/contact_me-email-yellow?style=for-the-badge)](mailto:nawazktk99@gmail.com)
-[![Available](https://img.shields.io/badge/Available%20For-Freelance-success?style=for-the-badge)](https://github.com/Aliktk)
-[![Innovation](https://img.shields.io/badge/Innovation-Driven-ff69b4?style=for-the-badge)](https://github.com/Aliktk)
+[![Website](https://img.shields.io/badge/Visit_PAK--AI-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
+[![Email](https://img.shields.io/badge/Get_in_touch-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
 
 </div>
 
 ---
 
-<!-- ============ PAK-AI COMPANY LAUNCH ============ -->
+## 🏢 PAK-AI — Applied AI, Delivered End-to-End
+
+**PAK-AI** is a Pakistan-based AI engineering company (Est. 2024) that turns business problems into working, production-grade AI systems. We don't stop at prototypes — we own the full lifecycle: **research → build → deploy → QA → support.**
+
+**Why teams work with us**
+
+- **End-to-end ownership** — one team from first workshop to live system and maintenance.
+- **Production-first** — every model ships with APIs, monitoring, testing, and documentation.
+- **Domain-proven** — real deployments across government/enterprise ERP, healthcare, and computer vision.
+- **Senior engineering** — led by a Senior AI/ML Engineer with 6+ years and peer-reviewed research.
+
+### What We Deliver
+
+| Capability | What it means for you |
+|---|---|
+| **🤖 Agentic AI & RAG** | Knowledge assistants and autonomous agents grounded in your data |
+| **👁️ Computer Vision** | Detection, tracking & action recognition for safety and compliance |
+| **⚙️ ML & MLOps** | Custom models with reliable training, deployment & monitoring pipelines |
+| **☁️ ERP & Cloud** | Workflow automation and enterprise systems on AWS / Azure |
+| **🏥 Medical Imaging** | Diagnostic-assist and segmentation systems for healthcare |
+| **🧠 NLP & LLMs** | Document intelligence, extraction & language understanding |
+| **📊 Predictive Analytics** | Forecasting and decision support from your operational data |
 
 <div align="center">
 
-<img src="./assets/pak-ai-logo.png" width="380" alt="PAK-AI"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=600&color=2E7D32&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%9A%80+Introducing+PAK-AI+%E2%80%94+Now+Live!;Intelligent+Systems%2C+Engineered+End-to-End" alt="PAK-AI Launch" />
-
-[![Status](https://img.shields.io/badge/🟢_NOW_LIVE-0B3D2E?style=for-the-badge)](https://pak-ai-web.vercel.app)
-[![Founded](https://img.shields.io/badge/Islamabad,_Pakistan-Est._2024-1B5E20?style=for-the-badge&logo=googlemaps&logoColor=white)](https://pak-ai-web.vercel.app)
-[![Website](https://img.shields.io/badge/Visit_Website-pak--ai--web.vercel.app-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
-
-<br>
-
-> ### 💡 *"We design, build, and ship **intelligent systems end-to-end** — from research to deployment, QA, and long-term support."*
-
-<br>
-
-**🧩 What We Build**
-
-![Agentic AI & RAG](https://img.shields.io/badge/🤖_Agentic_AI_&_RAG-0B3D2E?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-1B5E20?style=for-the-badge)
-![ML & MLOps](https://img.shields.io/badge/⚙️_ML_&_MLOps-2E7D32?style=for-the-badge)
-![ERP & Cloud](https://img.shields.io/badge/☁️_ERP_&_Cloud-1B5E20?style=for-the-badge)
-
-![Medical Imaging](https://img.shields.io/badge/🏥_Medical_Imaging-2E7D32?style=for-the-badge)
-![NLP & LLMs](https://img.shields.io/badge/🧠_NLP_&_LLMs-0B3D2E?style=for-the-badge)
-![Azure OpenAI](https://img.shields.io/badge/🔷_Azure_OpenAI-1B5E20?style=for-the-badge)
-![Predictive Analytics](https://img.shields.io/badge/📊_Predictive_Analytics-2E7D32?style=for-the-badge)
-
-<br>
-
-<sub>🇵🇰 <b>Made in Pakistan</b> &nbsp;•&nbsp; 🤝 Open for collaborations, partnerships & AI consulting</sub>
+[![Explore our work](https://img.shields.io/badge/Explore_our_work_→-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🗂️ Selected Work
 
-<table>
-<tr>
-<td width="60%" valign="top">
+**FIA Smart ACR/PER Management System**
+An intelligent digital platform that automates ACR/PER record management, review workflows, and reporting for a government organization — replacing manual, paper-based processes with a secure, auditable system.
+`FastAPI` · `PostgreSQL` · `Workflow Automation` · `Enterprise ERP`
 
-### 👨‍💻 Quick Intro
+**Agentic AI & RAG Platform**
+Production RAG pipelines and autonomous agents for document intelligence and enterprise knowledge assistants.
+`LangChain` · `LangGraph` · `OpenAI / Azure OpenAI` · `FastAPI`
 
-```python
-class AliNawaz:
-    def __init__(self):
-        self.role = "Founder & CEO"
-        self.company = "PAK-AI 🚀"
-        self.also = "Senior AI/ML Engineer"
-        self.location = "🇵🇰 Islamabad, Pakistan"
-        self.experience = "6+ Years"
+**Real-Time Computer Vision Suite**
+Detection, tracking, and action-recognition systems for safety, compliance, and industrial monitoring — optimized for edge deployment.
+`YOLOv11` · `SAM2` · `ST-GCN` · `PyTorch`
 
-    def what_i_do(self):
-        return "Design, build & ship intelligent systems end-to-end"
-
-    def skills(self):
-        return {
-            "AI": ["Computer Vision", "NLP", "GenAI"],
-            "Code": ["Python", "PyTorch", "TensorFlow"],
-            "Focus": ["Agentic AI", "LLMs", "Edge AI"]
-        }
-
-    def mission(self):
-        return "Building world-class AI from Pakistan 🇵🇰"
-```
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-### 🔭 Currently Working On
-
-```yaml
-🚀 PAK_AI: "Founding & scaling an end-to-end AI systems company"
-🤖 AI_Automation: "Building intelligent autonomous systems"
-👁️ Computer_Vision: "YOLO, SAM2, Real-time detection"
-🧠 LLM_Applications: "RAG pipelines & Document Intelligence"
-🏥 Medical_AI: "Healthcare imaging & diagnosis systems"
-⚡ Edge_AI: "Real-time inference on edge devices"
-```
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> Core Specialties
-
-<table>
-<tr>
-  <td width="30%"><b>🎯 Computer Vision</b></td>
-  <td>YOLO • Faster R-CNN • Mask R-CNN • SAM2 • ST-GCN</td>
-</tr>
-<tr>
-  <td width="30%"><b>🧠 NLP & LLMs</b></td>
-  <td>GPT • Langchain • RAG • Document Intelligence • Transformers</td>
-</tr>
-<tr>
-  <td width="30%"><b>🛠️ Frameworks</b></td>
-  <td>PyTorch • TensorFlow • OpenCV • FastAPI • Docker • AWS</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  GitHub Trophies
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliktk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+**Medical Imaging & Diagnostics AI**
+Computer-aided diagnosis pipelines for healthcare imaging — segmentation, classification, and diagnosis-assist.
+`TensorFlow` · `PyTorch` · `MONAI`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🛠️ Technical Expertise
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
-  Tech Stack & Tools
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
-</h2>
+**AI / ML**
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `YOLO` · `ONNX`
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-</div>
+**LLMs & GenAI**
+`OpenAI` · `Azure OpenAI` · `LangChain` · `LangGraph` · `Hugging Face` · `RAG` · `LlamaIndex`
 
-<br>
+**Backend & Deployment**
+`FastAPI` · `Flask` · `Django` · `Docker` · `Kubernetes` · `AWS` · `Azure`
 
-<div align="center">
-
-### 🤖 AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-
-<br>
-
-### 🧠 LLMs & GenAI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-9333EA?style=for-the-badge&logo=llama&logoColor=white)
-
-<br>
-
-### ⚙️ Frameworks & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br>
-
-### ☁️ Cloud & Databases
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br>
-
-### 🎨 Design Tools
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![CorelDraw](https://img.shields.io/badge/CorelDraw-00843D?style=for-the-badge&logo=coreldraw&logoColor=white)
-
-<br>
-
-### 🔧 Web Scraping & Automation
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-
-<br>
-
-### 📹 Video & Streaming
-
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-<br>
-
-### 📊 Data Science & Visualization
-
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
+**Data**
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Elasticsearch`
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎓 Background & Credentials
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-  GitHub Stats & Activity
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-  
-<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=aliktk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aliktk&custom_title=Ali's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true&height=300" alt="Contribution Graph"/>
-
-</div>
+- **Founder & CEO, PAK-AI** — end-to-end AI systems company (Est. 2024)
+- **6+ years** delivering AI/ML systems in industry
+- **MS, Software Engineering** — UET Taxila
+- **4+ peer-reviewed publications** — IEEE & international journals
+- **Prime Minister Laptop Award** — Top 10 in Software Engineering
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
-  Top Languages
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35">
-</h2>
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliktk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&card_width=600" alt="Top Languages"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  🐍 Contribution Snake 🐍
-</h2>
-
-<div align="center">
-  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aliktk/Aliktk/blob/main/github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aliktk/Aliktk/blob/main/github-user-contribution.svg" />
-  <img alt="github-snake" src="https://github.com/Aliktk/Aliktk/blob/main/github-user-contribution.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  GitHub Metrics
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/aliktk?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&habits=1&achievements=1&notable=1&discussions=1&followup=1&code=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&discussions.categories=true&code.lines=12&code.load=400&code.days=3&code.visibility=public&followup.sections=repositories&followup.indepth=false&config.timezone=Asia%2FKarachi&config.display=large" width="100%" alt="Metrics"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  Featured Projects
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<sub>🚀 Powered by <b><a href="https://pak-ai-web.vercel.app">PAK-AI</a></b> — a selection of intelligent systems we design, build & ship end-to-end</sub>
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-  <h3>🗂️ FIA Smart ACR/PER Management System</h3>
-  <p><sub>An intelligent digital platform for automated ACR/PER record management, review workflows & reporting.</sub></p>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Automation-2E7D32?style=flat-square&logo=zapier&logoColor=white" />
-    <img src="https://img.shields.io/badge/ERP-1B5E20?style=flat-square" />
-  </p>
-  <sub>🏛️ Government / Enterprise ERP · Delivered by PAK-AI</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <h3>🤖 Agentic AI &amp; RAG Platform</h3>
-  <p><sub>Production RAG pipelines & autonomous agents for document intelligence and enterprise knowledge assistants.</sub></p>
-  <p>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  </p>
-  <sub>🧠 Agentic AI & LLMs · PAK-AI</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <h3>👁️ Real-Time Computer Vision Suite</h3>
-  <p><sub>Detection, tracking & action recognition for safety, compliance & industrial monitoring at the edge.</sub></p>
-  <p>
-    <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-    <img src="https://img.shields.io/badge/SAM2-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/ST--GCN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Edge_AI-1B5E20?style=flat-square" />
-  </p>
-  <sub>🎯 Computer Vision · PAK-AI</sub>
-</td>
-<td width="50%" align="center" valign="top">
-  <h3>🏥 Medical Imaging &amp; Diagnostics AI</h3>
-  <p><sub>CAD systems for healthcare imaging — segmentation, classification & diagnosis-assist pipelines.</sub></p>
-  <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Medical_AI-2E7D32?style=flat-square" />
-    <img src="https://img.shields.io/badge/MONAI-0B3D2E?style=flat-square" />
-  </p>
-  <sub>🩺 Medical Imaging · PAK-AI</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
-[![Explore PAK-AI Projects](https://img.shields.io/badge/🚀_Explore_all_PAK--AI_projects-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/kdQuQ2jGIdCE8oPdPK/giphy.gif" width="35">
-  Weekly Coding Stats
-  <img src="https://media.giphy.com/media/kdQuQ2jGIdCE8oPdPK/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&width=850&height=300)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35">
-  Connect With Me
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35">
-</h2>
-
-<div align="center">
-
-### 🏢 PAK-AI
-
-[![PAK-AI Website](https://img.shields.io/badge/🚀_PAK--AI-Visit_Website-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
-[![Email PAK-AI](https://img.shields.io/badge/Work_With_Us-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
-
-<br>
-
-### 🌐 Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engr_ali_nawaz/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinawazktk/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/engr_ali_nawaz/)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nawazktk99)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXU3qvcf33IzYHHHpJKrLvw)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/aliktk)
-
-<br>
-
-### 💻 Coding Platforms
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7156266/engr-ali)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/qasim123)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nawazktk99)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/aliktk)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aliktk)
-
-<br>
-
-### 🎨 Design & Content
-
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nawazktk9992e8)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/aliktk)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aliktk)
-
-<br>
-
-### 📧 Email
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  What I'm Up To
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/>
-  <br><br>
-  <b>🔬 AI Research</b>
-  <br>
-  <sub>Computer Vision & NLP</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
-  <br><br>
-  <b>🚀 Building Projects</b>
-  <br>
-  <sub>LLMs & Agentic AI</sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
-  <br><br>
-  <b>🌟 Open Source</b>
-  <br>
-  <sub>Contributing & Learning</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-  Achievements & Awards
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-
-| Award | Description |
-|:-----:|:------------|
-| 🚀 | **Founder & CEO of PAK-AI** - Launched an end-to-end AI systems company (Est. 2024) |
-| 🥇 | **Prime Minister Laptop Award** - Top 10 in Software Engineering |
-| 🎓 | **MS in Software Engineering** - UET Taxila (3.21/4.0) |
-| 📚 | **4+ Research Publications** - IEEE & International Journals |
-| 💼 | **6+ Years Industry Experience** - AI/ML Engineering |
-| 🏆 | **Best Student Award** - Academic & Extracurricular Excellence |
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  Current Focus Areas
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <br>
-  <h1>🤖</h1>
-  <br>
-  <b>Agentic AI</b>
-  <br>
-  <sub>Building autonomous agents</sub>
-  <br><br>
-</td>
-<td align="center" width="25%">
-  <br>
-  <h1>👁️</h1>
-  <br>
-  <b>Computer Vision</b>
-  <br>
-  <sub>YOLO, SAM2, Detection</sub>
-  <br><br>
-</td>
-<td align="center" width="25%">
-  <br>
-  <h1>🧠</h1>
-  <br>
-  <b>LLMs & RAG</b>
-  <br>
-  <sub>GPT, Langchain, GenAI</sub>
-  <br><br>
-</td>
-<td align="center" width="25%">
-  <br>
-  <h1>🏥</h1>
-  <br>
-  <b>Medical AI</b>
-  <br>
-  <sub>Healthcare solutions</sub>
-  <br><br>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  Support My Work
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h2>
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/alinawazktk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
-<a href="https://ko-fi.com/alinawaz"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi"/></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliktk&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=graywhite&icon_color=1B5E20&text_color=333333" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliktk&layout=compact&hide_border=true&langs_count=8&theme=graywhite&text_color=333333&title_color=1B5E20" alt="Top Languages"/>
 
 </div>
 
@@ -653,71 +108,13 @@ class AliNawaz:
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Fun Fact
+### Let's build something intelligent together.
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+PAK-AI partners with startups, enterprises, and government teams to ship AI that works in production.
 
-</div>
+[![Start a conversation](https://img.shields.io/badge/Start_a_conversation-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
+[![Visit PAK-AI](https://img.shields.io/badge/pak--ai--web.vercel.app-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
 
-<br>
+<sub>🇵🇰 Made in Pakistan · Building world-class AI</sub>
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My+Tech+Stack&lineCount=3&line1=python,python,auto;pytorch,pytorch,auto;tensorflow,tensorflow,auto;&line2=react,react,auto;docker,docker,auto;kubernetes,kubernetes,auto;&line3=aws,aws,auto;postgresql,postgresql,auto;git,git,auto;&theme=radical&showBorder=false" alt="My Tech Stack" />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Daily Inspiration
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" width="50"/> 
-
-### 🌟 **"Transforming Ideas into Intelligent Solutions"** 🌟
-
-<br>
-
-### ⭐ **Star my repos if you find them interesting!** ⭐
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Aliktk/count.svg" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAliktk&count_bg=%2300D9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false" />
-</p>
-
-<br>
-
-**Thanks for visiting!** 😊  
-**Feel free to reach out for collaborations!** 🤝
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:1B5E20,100:0B3D2E&height=120&section=footer&text=Building%20the%20future%20with%20PAK-AI%20🇵🇰&fontColor=ffffff&fontSize=18&fontAlignY=70"/>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Nawaz&fontSize=42&fontAlignY=30&desc=Senior%20AI/ML%20Engineer%20|%20+6%20Years%20Experience&descAlignY=51&descAlign=50&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B5E20,100:2E7D32&height=200&section=header&text=Ali%20Nawaz&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Founder%20%26%20CEO%20@%20PAK-AI%20%7C%20Senior%20AI/ML%20Engineer%20%7C%206%2B%20Years&descSize=16&descAlignY=52&descAlign=50&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -51,6 +51,46 @@
 
 ---
 
+<!-- ============ PAK-AI COMPANY LAUNCH ============ -->
+
+<div align="center">
+
+<img src="./assets/pak-ai-logo.png" width="380" alt="PAK-AI"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2500&pause=600&color=2E7D32&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%9A%80+Introducing+PAK-AI+%E2%80%94+Now+Live!;Intelligent+Systems%2C+Engineered+End-to-End" alt="PAK-AI Launch" />
+
+[![Status](https://img.shields.io/badge/🟢_NOW_LIVE-0B3D2E?style=for-the-badge)](https://pak-ai-web.vercel.app)
+[![Founded](https://img.shields.io/badge/Islamabad,_Pakistan-Est._2024-1B5E20?style=for-the-badge&logo=googlemaps&logoColor=white)](https://pak-ai-web.vercel.app)
+[![Website](https://img.shields.io/badge/Visit_Website-pak--ai--web.vercel.app-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
+
+<br>
+
+> ### 💡 *"We design, build, and ship **intelligent systems end-to-end** — from research to deployment, QA, and long-term support."*
+
+<br>
+
+**🧩 What We Build**
+
+![Agentic AI & RAG](https://img.shields.io/badge/🤖_Agentic_AI_&_RAG-0B3D2E?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-1B5E20?style=for-the-badge)
+![ML & MLOps](https://img.shields.io/badge/⚙️_ML_&_MLOps-2E7D32?style=for-the-badge)
+![ERP & Cloud](https://img.shields.io/badge/☁️_ERP_&_Cloud-1B5E20?style=for-the-badge)
+
+![Medical Imaging](https://img.shields.io/badge/🏥_Medical_Imaging-2E7D32?style=for-the-badge)
+![NLP & LLMs](https://img.shields.io/badge/🧠_NLP_&_LLMs-0B3D2E?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/🔷_Azure_OpenAI-1B5E20?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/📊_Predictive_Analytics-2E7D32?style=for-the-badge)
+
+<br>
+
+<sub>🇵🇰 <b>Made in Pakistan</b> &nbsp;•&nbsp; 🤝 Open for collaborations, partnerships & AI consulting</sub>
+
+</div>
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
@@ -62,17 +102,24 @@
 ```python
 class AliNawaz:
     def __init__(self):
-        self.role = "Senior AI/ML Engineer"
-        self.company = "Invozone"
-        self.location = "🇵🇰 Pakistan"
-        self.experience = "5+ Years"
-        
+        self.role = "Founder & CEO"
+        self.company = "PAK-AI 🚀"
+        self.also = "Senior AI/ML Engineer"
+        self.location = "🇵🇰 Islamabad, Pakistan"
+        self.experience = "6+ Years"
+
+    def what_i_do(self):
+        return "Design, build & ship intelligent systems end-to-end"
+
     def skills(self):
         return {
             "AI": ["Computer Vision", "NLP", "GenAI"],
             "Code": ["Python", "PyTorch", "TensorFlow"],
             "Focus": ["Agentic AI", "LLMs", "Edge AI"]
         }
+
+    def mission(self):
+        return "Building world-class AI from Pakistan 🇵🇰"
 ```
 
 </td>
@@ -89,6 +136,7 @@ class AliNawaz:
 ### 🔭 Currently Working On
 
 ```yaml
+🚀 PAK_AI: "Founding & scaling an end-to-end AI systems company"
 🤖 AI_Automation: "Building intelligent autonomous systems"
 👁️ Computer_Vision: "YOLO, SAM2, Real-time detection"
 🧠 LLM_Applications: "RAG pipelines & Document Intelligence"
@@ -331,44 +379,64 @@ class AliNawaz:
 
 <div align="center">
 
+<sub>🚀 Powered by <b><a href="https://pak-ai-web.vercel.app">PAK-AI</a></b> — a selection of intelligent systems we design, build & ship end-to-end</sub>
+
+<br><br>
+
 <table>
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/aliktk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=Aliktk&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <br><br>
-  <p><b>🏥 Hospital Cleaning Verification System</b></p>
-  <p><sub>YOLOv11 • ST-GCN • PyTorch • Edge AI</sub></p>
+<td width="50%" align="center" valign="top">
+  <h3>🗂️ FIA Smart ACR/PER Management System</h3>
+  <p><sub>An intelligent digital platform for automated ACR/PER record management, review workflows & reporting.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-2E7D32?style=flat-square&logo=zapier&logoColor=white" />
+    <img src="https://img.shields.io/badge/ERP-1B5E20?style=flat-square" />
+  </p>
+  <sub>🏛️ Government / Enterprise ERP · Delivered by PAK-AI</sub>
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/aliktk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=Aliktk&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <br><br>
-  <p><b>📄 AI Document Analysis Tool</b></p>
-  <p><sub>LLMs • RAG • LlamaParse • FastAPI</sub></p>
+<td width="50%" align="center" valign="top">
+  <h3>🤖 Agentic AI &amp; RAG Platform</h3>
+  <p><sub>Production RAG pipelines & autonomous agents for document intelligence and enterprise knowledge assistants.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  </p>
+  <sub>🧠 Agentic AI & LLMs · PAK-AI</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/aliktk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=Aliktk&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <br><br>
-  <p><b>🎯 YOLO Object Detection System</b></p>
-  <p><sub>YOLOv8 • Computer Vision • Real-time</sub></p>
+<td width="50%" align="center" valign="top">
+  <h3>👁️ Real-Time Computer Vision Suite</h3>
+  <p><sub>Detection, tracking & action recognition for safety, compliance & industrial monitoring at the edge.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+    <img src="https://img.shields.io/badge/SAM2-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/ST--GCN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Edge_AI-1B5E20?style=flat-square" />
+  </p>
+  <sub>🎯 Computer Vision · PAK-AI</sub>
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/aliktk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aliktk&repo=Aliktk&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" />
-  </a>
-  <br><br>
-  <p><b>🩺 Medical Image Analysis</b></p>
-  <p><sub>TensorFlow • Medical AI • CAD System</sub></p>
+<td width="50%" align="center" valign="top">
+  <h3>🏥 Medical Imaging &amp; Diagnostics AI</h3>
+  <p><sub>CAD systems for healthcare imaging — segmentation, classification & diagnosis-assist pipelines.</sub></p>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medical_AI-2E7D32?style=flat-square" />
+    <img src="https://img.shields.io/badge/MONAI-0B3D2E?style=flat-square" />
+  </p>
+  <sub>🩺 Medical Imaging · PAK-AI</sub>
 </td>
 </tr>
 </table>
+
+<br>
+
+[![Explore PAK-AI Projects](https://img.shields.io/badge/🚀_Explore_all_PAK--AI_projects-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
 
 </div>
 
@@ -399,6 +467,13 @@ class AliNawaz:
 </h2>
 
 <div align="center">
+
+### 🏢 PAK-AI
+
+[![PAK-AI Website](https://img.shields.io/badge/🚀_PAK--AI-Visit_Website-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
+[![Email PAK-AI](https://img.shields.io/badge/Work_With_Us-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
+
+<br>
 
 ### 🌐 Social Media
 
@@ -493,10 +568,11 @@ class AliNawaz:
 
 | Award | Description |
 |:-----:|:------------|
+| 🚀 | **Founder & CEO of PAK-AI** - Launched an end-to-end AI systems company (Est. 2024) |
 | 🥇 | **Prime Minister Laptop Award** - Top 10 in Software Engineering |
 | 🎓 | **MS in Software Engineering** - UET Taxila (3.21/4.0) |
 | 📚 | **4+ Research Publications** - IEEE & International Journals |
-| 💼 | **5+ Years Industry Experience** - AI/ML Engineering |
+| 💼 | **6+ Years Industry Experience** - AI/ML Engineering |
 | 🏆 | **Best Student Award** - Academic & Extracurricular Excellence |
 
 </div>
@@ -643,5 +719,5 @@ class AliNawaz:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:1B5E20,100:0B3D2E&height=120&section=footer&text=Building%20the%20future%20with%20PAK-AI%20🇵🇰&fontColor=ffffff&fontSize=18&fontAlignY=70"/>
 </div>

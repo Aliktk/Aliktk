@@ -1,9 +1,9 @@
 <!-- ============================= HERO ============================= -->
 <div align="center">
 
-<img src="./assets/pak-ai-logo.png" width="340" alt="PAK-AI"/>
+<img src="./assets/hero-banner.svg" width="100%" alt="Ali Nawaz, Founder & CEO of PAK-AI"/>
 
-<br>
+<br><br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Ali+Nawaz+%F0%9F%91%8B;AI%2FML+Engineer+%26+Founder+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Computer+Vision+%7C+NLP+%7C+GenAI;6%2B+years+turning+research+into+real+products" alt="Typing SVG" /></a>
 
@@ -233,6 +233,10 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 <div align="center">
 
 ![Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&width=850&height=300)
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alinawazktk&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="70%" alt="WakaTime Stats"/>
 
 </div>
 

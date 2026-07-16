@@ -1,42 +1,71 @@
 <!-- ============================= HERO ============================= -->
 <div align="center">
 
-<img src="./assets/pak-ai-logo.png" width="360" alt="PAK-AI"/>
+<img src="./assets/pak-ai-logo.png" width="340" alt="PAK-AI"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1200&color=1B5E20&center=true&vCenter=true&width=720&height=45&lines=Ali+Nawaz%2C+Founder+%26+CEO+of+PAK-AI;Bringing+AI+products+to+life+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Research%2C+engineering%2C+and+delivery+under+one+roof" alt="Ali Nawaz"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Ali+Nawaz+%F0%9F%91%8B;AI%2FML+Engineer+%26+Founder+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Computer+Vision+%7C+NLP+%7C+GenAI;6%2B+years+turning+research+into+real+products" alt="Typing SVG" /></a>
 
 <p><b>Founder &amp; CEO, PAK-AI</b> &nbsp;|&nbsp; Senior AI/ML Engineer &nbsp;|&nbsp; 6+ Years</p>
 
 <p><i>I turn hard problems into AI systems that actually ship, and I built a company to do it at scale.</i></p>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=aliktk&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/aliktk)
+[![Followers](https://img.shields.io/github/followers/aliktk?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/aliktk?tab=followers)
+
 [![Website](https://img.shields.io/badge/PAK--AI-pak--ai--web.vercel.app-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
 [![Email](https://img.shields.io/badge/Work_with_me-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
 
-<br>
-
-![Est. 2024](https://img.shields.io/badge/PAK--AI-Est._2024-0B3D2E?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-6+_Years-1B5E20?style=flat-square)
-![Publications](https://img.shields.io/badge/Research-4+_Publications-2E7D32?style=flat-square)
-![Delivery](https://img.shields.io/badge/Delivery-Full_Lifecycle-1B5E20?style=flat-square)
-![Location](https://img.shields.io/badge/Islamabad-Pakistan_🇵🇰-0B3D2E?style=flat-square)
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👋 Who I Am
+<!-- ============================= ABOUT ME ============================= -->
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I'm a technical founder who works across research, engineering, and business. A lot of AI never makes it past the demo stage. Mine does. For the past six years I've built and shipped computer vision, LLM, and enterprise AI systems that run in real production environments, and I back that work with published research.
+### 👨‍💻 A Bit About Me
 
-In 2024 I started [PAK-AI](https://pak-ai-web.vercel.app) to do this at scale, and to show that serious AI products can be built in Pakistan and used anywhere in the world.
+```python
+ali = {
+    "role": "AI/ML Engineer + Founder",
+    "base": "Islamabad, Pakistan 🇵🇰",
+    "experience": "6+ years",
+    "focus": ["Computer Vision", "NLP", "GenAI", "Agentic AI"],
+    "currently": "Building PAK-AI",
+    "believes_in": "Shipping research, not just demos",
+}
+```
 
-> What you get from me: careful research, software built to production standards, and one team that stays with your project from the first meeting through to long-term support.
+I'm a technical founder who works across research, engineering, and business. A lot of AI never makes it past the demo stage. Mine does. For the past six years I've built computer vision, LLM, and enterprise AI systems that run in real production, and I back that work with published research.
 
----
+</td>
+<td width="42%" valign="top">
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+### 🔭 What I'm Working On
+
+```yaml
+🚀 PAK-AI:          "Growing my applied AI company"
+🤖 Agentic_AI:      "RAG pipelines and autonomous agents"
+👁️ Computer_Vision: "YOLO, SAM2, real-time detection"
+🧠 LLMs:            "Document intelligence and assistants"
+🏥 Medical_AI:      "Imaging and diagnosis support systems"
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ============================= PAK-AI ============================= -->
 ## 🏢 PAK-AI: Applied AI, Built to Last
 
 PAK-AI builds AI systems that solve real business problems. We don't hand over a notebook and walk away. We stay with a project through every stage: research, building, deployment, testing, and support.
@@ -68,8 +97,9 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ============================= SELECTED WORK ============================= -->
 ## 🗂️ Selected Work
 
 **🏛️ FIA Smart ACR/PER Management System**
@@ -88,29 +118,86 @@ Detection, tracking, and action recognition for safety, compliance, and industri
 Computer aided diagnosis pipelines for clinical imaging, covering segmentation, classification, and diagnosis support.
 `TensorFlow` · `PyTorch` · `MONAI`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ How I Work
+<!-- ============================= TECH STACK ============================= -->
+## 🛠️ Tech Stack
 
-- **Production over demos.** If it can't run reliably in the real world, it isn't finished.
-- **One team, the whole lifecycle.** From framing the problem to deployment and maintenance.
-- **Research where it matters, pragmatism everywhere else.**
-- **Built in Pakistan, used globally.**
+<div align="center">
 
----
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
-## 🛠️ Technical Expertise
+### 🧠 LLMs & GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**AI / ML** · `Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `OpenCV` · `YOLO` · `ONNX`
+### ⚙️ Backend, Cloud & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**LLMs & GenAI** · `OpenAI` · `Azure OpenAI` · `LangChain` · `LangGraph` · `Hugging Face` · `RAG` · `LlamaIndex`
+</div>
 
-**Backend & Deployment** · `FastAPI` · `Flask` · `Django` · `Docker` · `Kubernetes` · `AWS` · `Azure`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**Data** · `PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Elasticsearch`
+<!-- ============================= GITHUB STATS ============================= -->
+<h2 align="center">📊 My GitHub Stats & Activity</h2>
 
----
+<div align="center">
 
+<img width="49%" height="200" src="https://github-readme-stats.vercel.app/api?username=aliktk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=aliktk&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliktk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aliktk&custom_title=Ali's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area_color=00D9FF&title_color=00D9FF&area=true&height=300" alt="Contribution Graph"/>
+
+</div>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aliktk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/Aliktk/Aliktk/main/github-user-contribution.svg" width="100%" />
+
+</div>
+
+<h2 align="center">⏱️ Weekly Coding Stats</h2>
+
+<div align="center">
+
+![Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&width=850&height=300)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ============================= CREDENTIALS ============================= -->
 ## 🎓 Background & Credentials
 
 - **Founder & CEO, PAK-AI**, an applied AI company covering the full delivery cycle (est. 2024)
@@ -119,16 +206,21 @@ Computer aided diagnosis pipelines for clinical imaging, covering segmentation, 
 - **4+ peer reviewed publications** in IEEE and international journals
 - **Prime Minister Laptop Award**, ranked top 10 in Software Engineering
 
----
+<!-- ============================= CONNECT ============================= -->
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aliktk&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=graywhite&icon_color=1B5E20&text_color=333333" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliktk&layout=compact&hide_border=true&langs_count=8&theme=graywhite&text_color=333333&title_color=1B5E20" alt="Top Languages"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engr_ali_nawaz/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nawazktk99)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXU3qvcf33IzYHHHpJKrLvw)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/qasim123)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ============================= CTA ============================= -->
 <div align="center">
@@ -141,6 +233,10 @@ PAK-AI works with startups, enterprises, and government teams to ship AI that ho
 [![Visit PAK-AI](https://img.shields.io/badge/pak--ai--web.vercel.app-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
 
 <br>
+
+<img src="https://profile-counter.glitch.me/Aliktk/count.svg" alt="Visitor Count" />
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:1B5E20,100:0B3D2E&height=110&section=footer&text=Building%20AI%20in%20Pakistan,%20delivering%20worldwide%20🇵🇰&fontColor=ffffff&fontSize=17&fontAlignY=72"/>
 

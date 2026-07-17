@@ -234,11 +234,12 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 ![Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ali%20nawaz?history_days=30&width=850&height=300)
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=9b0829f4-28ff-4313-8617-fe5f48f996c4&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="70%" alt="WakaTime Stats"/>
-
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<sub>⏳ WakaTime breakdown updates daily once the API key secret is set (see repo Actions).</sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -279,7 +280,7 @@ PAK-AI works with startups, enterprises, and government teams to ship AI that ho
 
 <br>
 
-<img src="https://profile-counter.glitch.me/Aliktk/count.svg" alt="Visitor Count" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aliktk.Aliktk&left_text=Profile%20Visitors&left_color=444444&right_color=0B3D2E" alt="Profile Visitors" />
 
 <br><br>
 

@@ -208,11 +208,15 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 Highlights</h2>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aliktk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Founder](https://img.shields.io/badge/🚀_Founder_&_CEO-PAK--AI-0B3D2E?style=for-the-badge)
+![Award](https://img.shields.io/badge/🥇_PM_Laptop_Award-Top_10-1B5E20?style=for-the-badge)
+![Degree](https://img.shields.io/badge/🎓_MS-Software_Engineering-2E7D32?style=for-the-badge)
+![Research](https://img.shields.io/badge/📚_Publications-4%2B-1B5E20?style=for-the-badge)
+![Experience](https://img.shields.io/badge/💼_Experience-6%2B_Years-0B3D2E?style=for-the-badge)
 
 </div>
 

@@ -1,7 +1,7 @@
 <!-- ============================= HERO ============================= -->
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%" alt="Ali Nawaz, Founder & CEO of PAK-AI"/>
+<img src="./assets/hero-banner.svg" width="100%" alt="Ali Nawaz, Founder and CEO of PAK-AI"/>
 
 <br><br>
 
@@ -11,12 +11,24 @@
 
 <p><i>I turn hard problems into AI systems that actually ship, and I built a company to do it at scale.</i></p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aliktk&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/aliktk)
-[![Followers](https://img.shields.io/github/followers/aliktk?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/aliktk?tab=followers)
+<!-- quick nav -->
+<a href="#-pak-ai">PAK-AI</a> &nbsp;&bull;&nbsp;
+<a href="#-selected-work">Work</a> &nbsp;&bull;&nbsp;
+<a href="#-tech-stack">Stack</a> &nbsp;&bull;&nbsp;
+<a href="#-github-stats">Stats</a> &nbsp;&bull;&nbsp;
+<a href="#-connect">Connect</a>
 
-[![Website](https://img.shields.io/badge/PAK--AI-pak--ai--web.vercel.app-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
+<br><br>
+
+[![Website](https://img.shields.io/badge/PAK--AI-pakai.tech-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pakai.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-nawaz-khattak/)
 [![Email](https://img.shields.io/badge/Work_with_me-2E7D32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=aliktk&label=Profile%20Views&color=00D9FF&style=flat-square)](https://github.com/aliktk)
+[![Followers](https://img.shields.io/github/followers/aliktk?label=Followers&style=flat-square&color=00D9FF)](https://github.com/aliktk?tab=followers)
+[![Profile updated](https://img.shields.io/github/last-commit/Aliktk/Aliktk?style=flat-square&label=profile%20updated&color=0B3D2E)](https://github.com/Aliktk/Aliktk)
 
 </div>
 
@@ -66,7 +78,9 @@ I'm a technical founder who works across research, engineering, and business. A 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ============================= PAK-AI ============================= -->
-## 🏢 PAK-AI: Applied AI, Built to Last
+## 🏢 PAK-AI
+
+<i>Applied AI, built to last.</i>
 
 PAK-AI builds AI systems that solve real business problems. We don't hand over a notebook and walk away. We stay with a project through every stage: research, building, deployment, testing, and support.
 
@@ -93,7 +107,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 <div align="center">
 
-[![Explore our work](https://img.shields.io/badge/See_what_PAK--AI_builds_→-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
+[![Explore our work](https://img.shields.io/badge/See_what_PAK--AI_builds_→-0B3D2E?style=for-the-badge&logo=vercel&logoColor=white)](https://pakai.tech)
 
 </div>
 
@@ -191,7 +205,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ============================= GITHUB STATS ============================= -->
-<h2 align="center">📊 My GitHub Stats & Activity</h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -208,7 +222,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 </div>
 
-<h2 align="center">🏆 Highlights</h2>
+## 🏆 Highlights
 
 <div align="center">
 
@@ -220,7 +234,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -232,7 +246,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 
 </div>
 
-<h2 align="center">⏱️ Weekly Coding Stats</h2>
+## ⏱️ Coding Activity
 
 <div align="center">
 
@@ -257,7 +271,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 - **Prime Minister Laptop Award**, ranked top 10 in Software Engineering
 
 <!-- ============================= CONNECT ============================= -->
-<h2 align="center">🤝 Connect With Me</h2>
+## 🤝 Connect
 
 <div align="center">
 
@@ -280,11 +294,7 @@ PAK-AI builds AI systems that solve real business problems. We don't hand over a
 PAK-AI works with startups, enterprises, and government teams to ship AI that holds up in production. If you have a problem worth solving, I'd like to hear about it.
 
 [![Start a conversation](https://img.shields.io/badge/Start_a_conversation-0B3D2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawazktk99@gmail.com)
-[![Visit PAK-AI](https://img.shields.io/badge/pak--ai--web.vercel.app-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pak-ai-web.vercel.app)
-
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Aliktk.Aliktk&left_text=Profile%20Visitors&left_color=444444&right_color=0B3D2E" alt="Profile Visitors" />
+[![Visit PAK-AI](https://img.shields.io/badge/Visit_pakai.tech-2E7D32?style=for-the-badge&logo=vercel&logoColor=white)](https://pakai.tech)
 
 <br><br>
 
